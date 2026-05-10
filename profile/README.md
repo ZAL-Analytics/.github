@@ -17,7 +17,7 @@ Intelligence and security organizations face persistent challenges: data silos, 
 
 ---
 
-Website: [https://www.zal-analytics.nl](https://www.zal-analytics.nl) <br/>
+Website: [https://www.zal-analytics.ch](https://www.zal-analytics.ch) <br/>
 Industry: Data Infrastructure and Analytics <br/>
 Headquarters: Lausanne, Vaud <br/><br/>
 
