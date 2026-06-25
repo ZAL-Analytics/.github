@@ -1,25 +1,23 @@
 # Overview
 
-ZAL Analytics is a research-driven analytics firm building specialized tools and extensions for law enforcement, defense, and private security. We operate on top of industry-leading platforms including Palantir, IBM i2, and IBM Watson, extending their capabilities through marketplace integrations and fully custom solutions where off-the-shelf offerings fall short.
+ZAL Analytics is a **research-driven, open-source** company building the software backbone for **European digital sovereignty** in **intelligence and operational analytics**.
 
-We work directly with domain experts to architect purpose-built intelligence systems tailored to the operational realities of our clients, not generic templates adapted after the fact.
+Europe's most sensitive analytical work, the systems that turn fragmented data into understanding, runs largely on proprietary platforms it does not control, cannot inspect, and cannot operate without foreign infrastructure. We see that as a strategic risk and a governance gap. Our goal is to close it.
 
-## Core Capabilities:
-* **Entity Resolution (ER) Pipelines:** High-performance pipelines for disambiguating, linking, and resolving entities across fragmented, multi-source datasets, built for speed and accuracy at scale.
-* **Graph-Based Relationship Mapping:** Model complex networks of individuals, organizations, transactions, and events to surface hidden connections and operational patterns.
-* **Multi-Source Data Integration:** Ingest and harmonize structured and unstructured data from disparate systems into unified analytical frameworks compatible with existing platforms.
-* **Pattern Detection and Anomaly Analysis:** Apply clustering, link analysis, and machine learning to identify signals, outliers, and priority targets within large-scale datasets.
-* **Custom Platform Extensions:** Develop bespoke extensions and integrations on Palantir Foundry, IBM i2, and other frameworks where native marketplace solutions don't meet mission-specific requirements.
-* **Decision-Support Outputs:** Deliver operational dashboards, visual intelligence reports, and automated alerting tailored to investigators, analysts, and command-level stakeholders.
+We develop a complete, interconnected stack of analytical infrastructure, from data ingestion and entity resolution through to visualisation, reporting, and validation and we release all of it as permissively licensed (`Apache-2.0`) open source. Every component is built to run entirely on infrastructure you control, including air-gapped environments: no telemetry, no vendor connectivity, no exposure to foreign legal reach.
 
-## What We Solve:
-Intelligence and security organizations face persistent challenges: data silos, manual analytical bottlenecks, and the inability to connect entities across vast, fragmented information environments. ZAL Analytics builds the infrastructure to close those gaps, turning raw data into structured, actionable intel
+Open source is not a feature for us; it is the point. Software the public can inspect is more accountable than a black box, and that matters more in this domain than almost any other. By publishing our work as a European digital commons, we give public institutions tools they genuinely own and we let a commercial ecosystem of vendors, integrators, and agencies build on top of it, without lock-in.
+
+Our mission is to support Europe's digital transformation by replacing dependence with capability: sovereign, auditable, self-hosted infrastructure that institutions control end to end. We work in the open, alongside domain experts and the wider open-source community, so that what we build is reusable across member states and durable beyond any single contract.
+
+**European by design. Open by default. Sovereign by intent.**
 
 ---
 
-Website: [https://www.zal-analytics.ch](https://www.zal-analytics.ch) <br/>
+Website: [https://www.zal-analytics.nl](https://www.zal-analytics.nl) <br/>
+Contact: [info@zal-analytics.nl](mailto:info@zal-analytics.nl) <br/>
 Industry: Data Infrastructure and Analytics <br/>
-Headquarters: Lausanne, Vaud <br/><br/>
+Headquarters: the Netherlands, Utrecht <br/><br/>
 
 Specialties:
 ```
