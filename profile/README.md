@@ -1,14 +1,16 @@
 # Overview
 
-ZAL Analytics is a **research-driven, open-source** company building the software backbone for **European digital sovereignty** in **intelligence and operational analytics**.
+# ZAL Analytics
 
-Europe's most sensitive analytical work, the systems that turn fragmented data into understanding, runs largely on proprietary platforms it does not control, cannot inspect, and cannot operate without foreign infrastructure. We see that as a strategic risk and a governance gap. Our goal is to close it.
+ZAL Analytics is a **research-driven, open-source** company building the software backbone for **European digital sovereignty in intelligence and operational analytics**. Europe's most sensitive analytical work, and increasingly the AI that reasons over it, runs largely on proprietary platforms it cannot control, inspect, or operate without foreign infrastructure. We see that as a strategic risk and a governance gap we exist to close.
 
-We develop a complete, interconnected stack of analytical infrastructure, from data ingestion and entity resolution through to visualisation, reporting, and validation and we release all of it as permissively licensed (`Apache-2.0`) open source. Every component is built to run entirely on infrastructure you control, including air-gapped environments: no telemetry, no vendor connectivity, no exposure to foreign legal reach.
+We develop an interconnected stack of analytical infrastructure, from data ingestion and entity resolution to visualization, reporting, and validation and extend it into the layer that decides whether any of it can be trusted: **model integrity and provenance**.
 
-Open source is not a feature for us; it is the point. Software the public can inspect is more accountable than a black box, and that matters more in this domain than almost any other. By publishing our work as a European digital commons, we give public institutions tools they genuinely own and we let a commercial ecosystem of vendors, integrators, and agencies build on top of it, without lock-in.
+As institutions adopt foundation models they did not build, the risk moves to the model itself: whether it has been tampered with, and whether its conclusions trace back to authorized sources. We release all of it as permissively licensed (**Apache-2.0**) open source, built to run entirely on infrastructure you control, including air-gapped environments: no telemetry, no vendor connectivity, no exposure to foreign legal reach.
 
-Our mission is to support Europe's digital transformation by replacing dependence with capability: sovereign, auditable, self-hosted infrastructure that institutions control end to end. We work in the open, alongside domain experts and the wider open-source community, so that what we build is reusable across member states and durable beyond any single contract.
+Open source is not a feature for us; it is the point. By publishing our work as a European digital commons, we give institutions tools they genuinely own, and let a commercial ecosystem of vendors, integrators, and agencies build on top without lock-in.
+
+Our mission is to support Europe's digital transformation by replacing dependence with capability: **sovereign, auditable, self-hosted** infrastructure that institutions control end to end. Where not just the software but the models and the evidence behind every decision can be verified. We work in the open, so what we build is reusable across member states and durable beyond any single contract.
 
 **European by design. Open by default. Sovereign by intent.**
 
