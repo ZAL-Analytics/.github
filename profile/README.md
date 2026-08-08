@@ -16,8 +16,8 @@ Our mission is to replace dependence with capability: **sovereign, auditable, ai
 
 ---
 
-Website: [https://www.zal-analytics.nl](https://www.zal-analytics.com) <br/>
-Contact: [info@zal-analytics.nl](mailto:info@zal-analytics.com) <br/>
+Website: [https://www.zal-analytics.com](https://www.zal-analytics.com) <br/>
+Contact: [info@zal-analytics.com](mailto:info@zal-analytics.com) <br/>
 Industry: Air-Gapped AI and Data Intelligence for Defense and Security <br/>
 Headquarters: the Netherlands, Utrecht <br/><br/>
 
