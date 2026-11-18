@@ -8,12 +8,12 @@ Our work spans the stack: energy-efficient AI inference, probabilistic entity re
 
 ## What we build
 
-- **AI inference infrastructure** — energy-efficient, low-power model execution designed for embedded devices, phones, and constrained environments.
-- **Agentic and analytical tooling** — desktop and workflow software that helps users interact with documents, data, and AI through local-first interfaces.
-- **Entity resolution** — explainable, probabilistic matching and adjudication for high-accountability analytical work.
-- **Knowledge graphs and data fusion** — ontology-driven document processing that connects entities and relationships with provenance on every fact.
-- **Secure data movement** — immutable, read-only synchronization for transferring and mirroring data across controlled environments.
-- **Deployment and licensing** — tools for operating, distributing, and validating software in isolated or vendor-managed environments.
+- **AI inference infrastructure**: energy-efficient, low-power model execution designed for embedded devices, phones, and constrained environments.
+- **Agentic and analytical tooling**: desktop and workflow software that helps users interact with documents, data, and AI through local-first interfaces.
+- **Entity resolution**: explainable, probabilistic matching and adjudication for high-accountability analytical work.
+- **Knowledge graphs and data fusion**: ontology-driven document processing that connects entities and relationships with provenance on every fact.
+- **Secure data movement**: immutable, read-only synchronization for transferring and mirroring data across controlled environments.
+- **Deployment and licensing**: tools for operating, distributing, and validating software in isolated or vendor-managed environments.
 
 ## Why it matters
 
