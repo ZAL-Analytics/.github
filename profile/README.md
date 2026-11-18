@@ -1,36 +1,36 @@
-# Overview
-
 # ZAL Analytics
 
-**Non profit research firm for air-gapped AI solutions for public and private sector in EU/EEA**
+**Open-source software for AI inference and agentic tools in air-gapped and hybrid environments.**
 
-ZAL Analytics is a research-driven, sovereignty-first company building air-gapped AI and data intelligence systems for the institutions that carry Europe's hardest security responsibilities.
+ZAL Analytics builds practical, locally controlled software for organizations that need AI, analytical workflows, and sensitive data to operate without dependence on foreign cloud infrastructure.
 
-Europe's most sensitive analytical work, and increasingly the AI that reasons over it runs on proprietary platforms it cannot control, inspect, or operate without foreign infrastructure. We see that as a strategic risk and a governance gap we exist to close.
+Our work spans the stack: energy-efficient AI inference, probabilistic entity resolution, knowledge graph construction, provenance-aware data intelligence, secure synchronization, software licensing, and integrated desktop tooling. We favor Rust-native implementations, explainable systems, and architectures that remain usable on-premises, at the edge, or in disconnected networks.
 
 ## What we build
-An interconnected stack of analytical infrastructure, from data ingestion and entity resolution to local inference, reporting, and validation, extended into the layer that decides whether any of it can be trusted: model integrity and provenance. Every part runs fully air-gapped, on infrastructure you control end to end, with no telemetry, no vendor connectivity, and no exposure to foreign legal reach.
+
+- **AI inference infrastructure** — energy-efficient, low-power model execution designed for embedded devices, phones, and constrained environments.
+- **Agentic and analytical tooling** — desktop and workflow software that helps users interact with documents, data, and AI through local-first interfaces.
+- **Entity resolution** — explainable, probabilistic matching and adjudication for high-accountability analytical work.
+- **Knowledge graphs and data fusion** — ontology-driven document processing that connects entities and relationships with provenance on every fact.
+- **Secure data movement** — immutable, read-only synchronization for transferring and mirroring data across controlled environments.
+- **Deployment and licensing** — tools for operating, distributing, and validating software in isolated or vendor-managed environments.
 
 ## Why it matters
-As institutions adopt foundation models they did not build, the risk moves to the model itself: whether it has been tampered with, and whether its conclusions trace back to authorized sources. In such sectors, an unverifiable model is an operational liability.
 
-## How we deliver
-Free, open, and indefinite licenses granted exclusively to trusted institutions and vetted sponsors: perpetual, source-available, and self-hosted, with no lock-in. Partners genuinely own what they run, read every line, audit every model, operate indefinitely without us.
+Institutions adopting AI are often forced to choose between model capability and operational control. ZAL Analytics works toward systems that can run locally, remain inspectable, preserve data provenance, and support accountable decisions without requiring continuous network access.
 
-**European by design. Air-gapped by default. Sovereign by intent.** 
+**Open source. Local by default. Air-gapped or hybrid.**
 
 ---
 
-Website: [https://www.zal-analytics.com](https://www.zal-analytics.com) <br/>
-Contact: [info@zal-analytics.com](mailto:info@zal-analytics.com) <br/>
-Industry: Air-Gapped AI and Data Intelligence for public and private sector <br/>
-Headquarters: the Netherlands, Utrecht <br/><br/>
+Industry: Open-Source AI, Air-Gapped Computing, and Data Intelligence  <br/>
+Headquarters: Utrecht, the Netherlands <br/><br/>
 
 Specialties:
 ```
-Air-Gapped AI, On-Premise Model Deployment, Model Integrity and Provenance, Tamper Detection,
-Data-Centric Intelligence, Graph Analytics, Entity Resolution, Link Analysis, Network Science,
-Anomaly Detection, Knowledge Graphs, Data Fusion, Pattern Recognition, Multi-Source Data Integration,
-Decision Intelligence, Operational Intelligence, Visual Analytics, Risk Assessment,
-Predictive Modeling, Unstructured Data Processing, Automated Workflows, and Strategic Foresight
+AI Inference, Agentic Tools, Local-First Software, Air-Gapped Systems, Hybrid Deployments,
+On-Premise Model Execution, Low-Power Inference, Rust Development, Entity Resolution,
+Knowledge Graphs, Data Fusion, Graph Analytics, Link Analysis, Network Science,
+Document Intelligence, Provenance and Explainability, Secure Synchronization,
+Embedded Systems, Desktop Applications, Software Licensing, and Operational Tooling
 ```
